@@ -1,0 +1,23 @@
+{
+  "name": "selenium-trick",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/princewck/selenium-trick.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/princewck/selenium-trick/issues"
+  },
+  "homepage": "https://github.com/princewck/selenium-trick#readme",
+  "devDependencies": {
+    "selenium-webdriver": "^3.5.0"
+  }
+}
